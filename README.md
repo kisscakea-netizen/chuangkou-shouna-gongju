@@ -18,4 +18,4 @@ Windows 窗口分组收纳工具。将多个程序或游戏窗口加入分组后
 
 ## 从源码构建
 
-运行 `build.ps1`。脚本使用 Windows 自带的 .NET Framework C# 编译器，输出 `窗口收纳工具.exe`。
+运行 `构建.ps1`。脚本使用 Windows 自带的 .NET Framework C# 编译器，输出 `窗口收纳工具.exe`。
